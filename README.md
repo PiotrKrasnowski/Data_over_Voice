@@ -1,5 +1,6 @@
 # Data_over_Voice
-# 06/07/2020, Sophia Antipolis, France
+
+06/07/2020, Sophia Antipolis, France
 
 Due to storage limitations, recordings of the DoV signal have been moved to Google Drive (link below):
 
